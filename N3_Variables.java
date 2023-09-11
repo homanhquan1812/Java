@@ -1,4 +1,4 @@
-public class Variables {
+public class N3_Variables {
     public static void main(String[] args)
     {
         /* Display math calculation */
